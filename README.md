@@ -69,7 +69,7 @@
 ## ☕ Support My Caffeine Addiction
 
 <div align="center">
-  <a href="https://buymeacoffee.com/rhythmdoshi04" target="_blank">
+  <a href="https://www.rhythmdoshi.site/coffee" target="_blank">
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" />
   </a>
 </div>
